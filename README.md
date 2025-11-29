@@ -1,4 +1,6 @@
 Phishing URL Classification
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Malicious Web sites are a cornerstone of Internet criminal activities. These Web sites contain various unwanted content such as spam-advertised products, phishing sites, dangerous "drive-by" harness that infect a visitor's system with malware. The most influential approaches to the malicious URL problem are manually constructed lists in which all malicious web page`s URLs are listed, as well as users systems that analyze the content or behavior of a Web site as it is visited.
 
 The disadvantage of Blacklisting approach is that we have to do the tedious task of searching the list for presence of the entry. And the list can be very large considering the amount of web sites on the Internet. Also the list cannot be kept upto date because of the evergrowing growth of web link each and every hour.
